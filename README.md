@@ -1,6 +1,6 @@
 # Welcome to My Page
 
-I am front end distinguished by fulfilling projects of web development using agile methodologies - Scrum.
+I am an front-end developer with a strong background in implementation and customer support distinguished by fulfilling projects of web development using agile methodologies - Scrum.
 
 I achieve my objectives thanks to my commitment, use of the knowledge acquired from engineering, ability to visualize projects and the search for continuous improvement through new technologies. I never stop learning.
 
