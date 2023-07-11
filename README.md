@@ -1,6 +1,6 @@
 # Welcome to My Page
 
-I am mechanical engineering distinguished by fulfilling projects of web development using agile methodologies - Scrum.
+I am front end distinguished by fulfilling projects of web development using agile methodologies - Scrum.
 
 I achieve my objectives thanks to my commitment, use of the knowledge acquired from engineering, ability to visualize projects and the search for continuous improvement through new technologies. I never stop learning.
 
